@@ -5,6 +5,8 @@
 
 Create an automated pipeline that builds and deploys a Hugo static website to Firebase Hosting. Website content is stored in a GitHub repository and deployments are automated by Google Cloud Build when commits land on the `main` branch.
 
+<img width="1364" height="583" alt="image" src="https://github.com/user-attachments/assets/757ef1c5-ae10-44b3-ae2a-e4fc738e23e2" />
+
 ## Objectives
 
 * Read a static website overview.
