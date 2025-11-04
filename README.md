@@ -1,10 +1,5 @@
 # Deploy a Hugo Website with Cloud Build and Firebase Pipeline
 
-**Lab** • **Experiment** • **Schedule:** 1 hour • **Cost:** No cost • **Difficulty:** Intermediate • **Lab ID:** GSP747
-
-> *This lab may incorporate AI tools to support your learning.*
-
----
 
 ## Overview
 
